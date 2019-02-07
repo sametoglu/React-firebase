@@ -1,0 +1,1 @@
+bu uygulamada sayfa gecisinde route kullanılmıs ve firebase den veri cekip listeye basılmıstır ama splash duzgun ayarlanmamıstır.
